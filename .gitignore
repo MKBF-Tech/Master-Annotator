@@ -1,0 +1,19 @@
+# Local backups written by the annotator
+Annotator/Progress File/Backups/*
+!Annotator/Progress File/Backups/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# Large local-only assets
+Models/
+Runs/
+*.pt
+
+# Editors / OS
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
