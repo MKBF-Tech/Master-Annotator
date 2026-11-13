@@ -1,0 +1,11 @@
+path: .
+train: images
+val: images
+names:
+  0: Human Feeder
+  1: Boat
+  2: Feed Container
+  3: Dead Fish
+  4: Live Fish
+  5: Bird
+  6: Debris

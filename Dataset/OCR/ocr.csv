@@ -1,0 +1,5 @@
+clip_id,which,image,text_predicted,text_final,corrected
+2026-09-16_11-07-55_Cam1_Pond1,start,2026-09-16_11-07-55_Cam1_Pond1_start.png,2026-09-16 11:07:56,2026-09-16 11:07:55,true
+2026-09-16_11-07-55_Cam1_Pond1,end,2026-09-16_11-07-55_Cam1_Pond1_end.png,2026-09-16 11:08:00,2026-09-16 11:08:00,false
+2026-10-13_07-05-22_Cam2_Pond1,start,2026-10-13_07-05-22_Cam2_Pond1_start.png,2026-10-13 07:05:22,2026-10-13 07:05:22,false
+2026-10-13_07-05-22_Cam2_Pond1,end,2026-10-13_07-05-22_Cam2_Pond1_end.png,2026-10-13 07:05:27,2026-10-13 07:05:27,false
