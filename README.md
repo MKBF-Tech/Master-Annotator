@@ -2,7 +2,7 @@
 
 A browser-based video annotator for building aquaculture computer-vision datasets: ripples, objects, feed region, feeder/boat activity and clip metadata, annotated on pond CCTV clips and exported in YOLO format.
 
-**[Open the annotator](https://mkbf-tech.github.io/Master-Annotator/Annotator/Annotator.html)** · [`Annotator.html` source](Annotator/Annotator.html) · [User guide](Docs/USER_GUIDE.md)
+**[Open the annotator](https://mkbf-tech.github.io/Master-Annotator/Annotator/Annotator.html)** · [User guide](Docs/USER_GUIDE.md)
 
 > **New here? Read the [User Guide](Docs/USER_GUIDE.md) first.** It explains every tab, control, shortcut and export file, with screenshots on the showcase clip.
 
